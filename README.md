@@ -19,3 +19,4 @@ This project allows users to count the number of words and characters in a given
   The JavaScript file that handles the application logic, including updating the word and character counts in real-time as the user types.
 
 ## Link
+[https://shady-ghabour.github.io/word-counter/](https://shady-ghabour.github.io/word-counter/)
