@@ -95,5 +95,16 @@ textarea{
     }
     
 }
+@media (max-width: 992px) {
+    .charCount{
+        left: 70%;
+    }  
+}
+
+@media (max-width: 1200px) {
+    .charCount{
+        left: 75%;
+    }  
+}
 
 
